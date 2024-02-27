@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Four In A Row</string>
+    <string name="splash_title">Welcome to the Four in a Row Game</string>
+    <string name="instruction">Play against the
+        computer in a game of Four-In-A-Row. The first to place 4 of their pieces in a consecutively (horizontal, vertical, or diagonal) wins! </string>
+    <string name="start">Start</string>
+    <string name="name_input">Input player name</string>
+    <string name="player_turn">%s\'s turn</string>
+    <string name="computer_turn">Computer\'s turn</string>
+    <string name="player_win">%s wins!</string>
+    <string name="computer_win">Computer wins!</string>
+    <string name="draw">It\'s a draw!</string>
+    <string name="reset_text">Play again</string>
+    <string name="name_hint">Input player name</string>
+</resources>
